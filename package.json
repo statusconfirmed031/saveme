@@ -97,6 +97,14 @@
     },
     "overrides": {
       "tailwindcss>nanoid": "3.3.7"
+    },
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "vite"
+      ],
+      "allowAny": [
+        "vite"
+      ]
     }
   }
 }
