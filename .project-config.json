@@ -1,0 +1,35 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "s3://vida-prod-gitrepo/webdev-git/310519663128506348/HcfiVtkXxVvxhVNHyhF4Bf",
+    "access_key_id": "ASIAZV3A2ECZHILQIEVC",
+    "secret_access_key": "5DTzvirp0KZB+6RGIAZ4grtJ92ajB+5u3vpx9Mb6",
+    "session_token": "IQoJb3JpZ2luX2VjEJ3//////////wEaCXVzLWVhc3QtMSJGMEQCIDxtE5kLZrEfeDS54maaEa0/SDQtgwG9lrdgkNf/p7+PAiA7A5XfSDATS+f0qvZLfIM1+4RQncyc+WKSRwMxAclaOCr2AwhmEAQaDDY2NTM4NjA5ODg2NiIM+llqgrKptDKQmOgsKtMD1GB54bnrBrcEE8IExRA9hnXTUdi2qcm+HNihZ5jIThcmhhu8rGKII2CwPxL9GzBXkxkf01JYqeCmaaPfBmgmUz/ERf8uJLNW1pvw8VxI6iZDfl1wv+KVoTlqJ9s3Yevvk11iduW6j6ROiVfU+tYYo3s7CaNOQ0PTYBSdFfxLoNyxvPULwopSb/k6ZAuNOVBopzKmXIIIbg17JlkhhqjZiWaLTSsaYy7+LSKnkRoimZhXhWu3Ujk33bIuiN3E/VYiO1pNcO67qrZlIjQNNWwjWSTc++E0sYMTGSSeIIozsFM8ApFgusxr9gh/iW21N0w0TEZYhhIgvngy88NQgv/JewGJCVTjzRuKp9GwzNyd/LmSooocjvb9EHPeglW1nW4fLwE9S9DAsHslbmTZQoidQ2yggIUgsSzIuUaxio4UdFvtKKYgleSCqsKvr55HFxGuwJbLSkhSLwpt9bTp0nYAr/njFezjEaf94Ucpz+Q86lSwcPszbuWoTAaDpKgDHCsRU0U3LII3q2axQKpoj+xS7hcmafbfJ0vhIh2wFHIsU5wbABZBKie5dq2Ztb0MnvPSFCjUQXjuLs0Rkha8cb4+oPbV3BuF5vARSBUfYmjAN8zpBIQw3O2Y0AY6ngH7lq6GuucamDbDVPndWGTxAooGTLMV6sTGsjy6Qj3s/Rx4hx98EMa2J0fUOB21KJ2VplraTd6WThQ5o4rkzaPefQlmitfHqUwJKzp2pXviFUIy1FokIeiX45kdiZoZAmMFodTnlC5jxd2T7J7NpplkZspyXIjggXwbzm6EML2vqtDAN38MXk4Thy22Tf56mJ5VvNNb1ovc8wYouFWfTQ==",
+    "expiration": "2026-05-15T08:55:56.000Z"
+  },
+  "name": "mapbox-app",
+  "path": "/home/ubuntu/mapbox-app",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "QB4MoMgVypa46dTYEVoEG8",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "33ysQqNfoqTEVWSLDHz82y",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "saad",
+    "OWNER_OPEN_ID": "S48U4Mgg9MTwRkD7KgenvB",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "0b3e83c9-f5b6-4bc5-83ac-d613b1e08b49",
+    "VITE_APP_ID": "HcfiVtkXxVvxhVNHyhF4Bf",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Mapbox Interactive Map Application",
+    "VITE_FRONTEND_FORGE_API_KEY": "3LhEGTHwBxBmrvwzmy7NAT",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
