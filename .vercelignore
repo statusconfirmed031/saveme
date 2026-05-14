@@ -1,0 +1,12 @@
+.git
+.gitignore
+.manus-logs
+.manus
+node_modules
+pnpm-lock.yaml
+ideas.md
+README.md
+.prettierrc
+.prettierignore
+.project-config.json
+template.json
